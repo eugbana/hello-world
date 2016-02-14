@@ -1,2 +1,2 @@
 # hello-world
-just a test
+First time using this application
